@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+
+# log
+
+log/*
+logs/*
+
+# node
+node_modules
+
+# generated files
+coverage
+dist
+.gh-pages
+
+# lockfiles (you can remove these if you want them).
+package-lock.json
+yarn.lock
+
+# IDEs and editors
+.vscode
+
+# local config
+.opt-in
+.opt-out
+.idea/*
+.gitconfig
+
+# This is generated during the client-side build. It's taken by our
+# infrastructure scripts and uploaded to a CDN.
+.build
+
+# honestly not sure what this is
+server/.configcache
+
+# this is generated at build-time
+server/config/client-asset-manifest.json
+
