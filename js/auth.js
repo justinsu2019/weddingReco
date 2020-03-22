@@ -95,10 +95,10 @@ var Auth = {
                 Auth.vars.box[i].className += ' lowin-flip';
             }
         }
-        Auth.vars.forgot_link.addEventListener("click", (e)=>{
-            Auth.forgot(e);
-        }
-        );
+        // Auth.vars.forgot_link.addEventListener("click", (e)=>{
+        //     Auth.forgot(e);
+        // }
+        // );
         Auth.vars.register_link.addEventListener("click", (e)=>{
             Auth.brand();
             Auth.register(e);
