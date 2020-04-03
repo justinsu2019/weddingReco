@@ -1,3 +1,10 @@
+adjustment: !!!Important function!!! 
+0）首页
+1）会员注册     
+3）上传图片功能   
+4）图片打标签功能
+2）支付功能 （可以晚点上线，先用二维码收费是可以的）
+
 Here is what I need:
  
 A website looks just like this one:
